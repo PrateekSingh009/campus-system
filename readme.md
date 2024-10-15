@@ -48,7 +48,7 @@ It is an application that manages clubs within our institution.
    <td><img src="https://github.com/user-attachments/assets/f6295673-2a9a-42de-95ed-84368975f8b8" width=200 ></td>
   </tr>
  </table>
- 
+
  ### Main Screens
  
  <table>
@@ -59,7 +59,7 @@ It is an application that manages clubs within our institution.
   </tr>
 
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/3b223364-5cf4-416e-b8f3-f79d8d0344fbg" width=200 ></td>
+    <td><img src="https://github.com/user-attachments/assets/1ef11e60-d475-4345-9a0d-35742f6b0d04" width=200 ></td>
     <td><img src="https://github.com/user-attachments/assets/103ed1d8-31c3-4e0d-90f0-cc7a84a83601" width=200 ></td>
     <td><img src="https://github.com/user-attachments/assets/6c7f5acb-36b6-4cf1-8257-6c753745bbd5" width=200 ></td>
   </tr>
@@ -67,9 +67,7 @@ It is an application that manages clubs within our institution.
  <table>
   <tr>
     <td>Post Feed Screen</td>
-   <td>Add Club Screen</td>![7]()
-![8](https://github.com/user-attachments/assets/3c5a411d-1b72-4a31-8176-c6fe4d2a0b7c)
-
+   <td>Add Club Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b8904940-f66c-4b6d-bd5a-a64efb6d3ed4" width=200 ></td>
