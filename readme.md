@@ -41,10 +41,11 @@ It is an application that manages clubs within our institution.
    <td>Register Screen</td>
      <td>Login Screen</td>
   </tr>
+
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/813666371807608886/836681281440841798/Screenshot_20210428-003510.png" width=200 ></td>
-    <td><img src="https://cdn.discordapp.com/attachments/813666371807608886/836681280963870730/Screenshot_20210428-003522.png" width=200 ></td>
-   <td><img src="https://cdn.discordapp.com/attachments/813666371807608886/836681281176862800/Screenshot_20210428-003516.png" width=200 ></td>
+    <td><img src="https://github.com/user-attachments/assets/c3908b1b-c078-4e6d-a98f-9dcd63b4ce26" width=200 ></td>
+    <td><img src="https://github.com/user-attachments/assets/89a787d1-ed0d-45df-906f-67093aae131c" width=200 ></td>
+   <td><img src="https://github.com/user-attachments/assets/f6295673-2a9a-42de-95ed-84368975f8b8" width=200 ></td>
   </tr>
  </table>
  
@@ -56,19 +57,22 @@ It is an application that manages clubs within our institution.
    <td>Club List Screen</td>
    <td>Chat Screen</td>
   </tr>
+
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/813666371807608886/836681280703299654/Screenshot_20210428-003941.png" width=200 ></td>
-    <td><img src="https://cdn.discordapp.com/attachments/813666371807608886/836681281713602620/Screenshot_20210428-003454.png" width=200 ></td>
-    <td><img src="https://cdn.discordapp.com/attachments/813666371807608886/836681406624694312/Screenshot_20210428-003446.png" width=200 ></td>
+    <td><img src="https://github.com/user-attachments/assets/3b223364-5cf4-416e-b8f3-f79d8d0344fbg" width=200 ></td>
+    <td><img src="https://github.com/user-attachments/assets/103ed1d8-31c3-4e0d-90f0-cc7a84a83601" width=200 ></td>
+    <td><img src="https://github.com/user-attachments/assets/6c7f5acb-36b6-4cf1-8257-6c753745bbd5" width=200 ></td>
   </tr>
  </table>
  <table>
   <tr>
     <td>Post Feed Screen</td>
-   <td>Add Club Screen</td>
+   <td>Add Club Screen</td>![7]()
+![8](https://github.com/user-attachments/assets/3c5a411d-1b72-4a31-8176-c6fe4d2a0b7c)
+
   </tr>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/813666371807608886/836681280417955880/Screenshot_20210428-004025.png" width=200 ></td>
-    <td><img src="https://cdn.discordapp.com/attachments/813666371807608886/836681280191987742/Screenshot_20210428-004130.png" width=200 ></td>
+    <td><img src="https://github.com/user-attachments/assets/b8904940-f66c-4b6d-bd5a-a64efb6d3ed4" width=200 ></td>
+    <td><img src="https://github.com/user-attachments/assets/3c5a411d-1b72-4a31-8176-c6fe4d2a0b7c" width=200 ></td>
   </tr>
  </table>
